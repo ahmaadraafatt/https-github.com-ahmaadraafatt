@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://your-image-link.gif" alt="Ahmed Raafat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF5733&center=true&vCenter=true&width=500&lines=Ahmed+Raafat" />
 </p>
+
 
 Beginner Software Developer
 Web Development, Problem Solving, OOP, .NET
