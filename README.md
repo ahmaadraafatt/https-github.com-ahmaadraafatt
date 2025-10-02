@@ -10,6 +10,10 @@
 </p>
 
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" height="30"/>](https://t.me/ahmaadrafatt)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" height="30"/>](https://wa.me/201288208895)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30"/>](https://instagram.com/ahmaadraafatt)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/ahmaadrafatt)
 
 
 
@@ -17,7 +21,6 @@
 ![C++](https://img.shields.io/badge/Code-C++-black?logo=cplusplus) 
 ![C#](https://img.shields.io/badge/Code-CSharp-black?logo=csharp) 
 ![.NET](https://img.shields.io/badge/Framework-.NET-green?logo=dotnet)
-[![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?logo=telegram)](https://t.me/ahmaadrafatt)
 
 
 
