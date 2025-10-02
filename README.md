@@ -17,7 +17,7 @@
   <a href="https://wa.me/201288208895" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" height="40" style="fill:#25D366; border-radius:10px;"/>
   </a>
-  <a href="https://instagram.com/ahmaadraafatt" target="_blank">
+  <a href="https://instagram.com/ahmaadrafatt" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" style="fill:#E4405F; border-radius:10px;"/>
   </a>
   <a href="https://discord.gg/ahmaadrafatt" target="_blank">
