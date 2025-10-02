@@ -10,10 +10,21 @@
 </p>
 
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" height="30"/>](https://t.me/ahmaadrafatt)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" height="30"/>](https://wa.me/201288208895)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30"/>](https://instagram.com/ahmaadraafatt)
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="30" height="30"/>](https://discord.gg/ahmaadrafatt)
+<p align="center">
+  <a href="https://t.me/ahmaadrafatt" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" height="40" style="fill:#0088cc; border-radius:10px;"/>
+  </a>
+  <a href="https://wa.me/201288208895" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40" height="40" style="fill:#25D366; border-radius:10px;"/>
+  </a>
+  <a href="https://instagram.com/ahmaadraafatt" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" style="fill:#E4405F; border-radius:10px;"/>
+  </a>
+  <a href="https://discord.gg/ahmaadrafatt" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40" height="40" style="fill:#5865F2; border-radius:10px;"/>
+  </a>
+</p>
+
 
 
 
