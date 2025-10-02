@@ -4,7 +4,7 @@
 
 
 Beginner Software Developer
-Web Development, Problem Solving, OOP, .NET
+Web Development, Problem Solving, OOP, .NET "\n"
 _"Code is like humor. When you have to explain it, it’s bad."_  
 
 
