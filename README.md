@@ -14,10 +14,10 @@
 
 
 
-![C++](https://img.shields.io/badge/Code-C++-blue?logo=cplusplus) 
-![C#](https://img.shields.io/badge/Code-CSharp-green?logo=csharp) 
-![.NET](https://img.shields.io/badge/Framework-.NET-purple?logo=dotnet) 
+![C++](https://img.shields.io/badge/Code-C++-black?logo=cplusplus) 
+![C#](https://img.shields.io/badge/Code-CSharp-black?logo=csharp) 
+![.NET](https://img.shields.io/badge/Framework-.NET-green?logo=dotnet)
 
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=merko)
 
