@@ -17,6 +17,8 @@
 ![C++](https://img.shields.io/badge/Code-C++-black?logo=cplusplus) 
 ![C#](https://img.shields.io/badge/Code-CSharp-black?logo=csharp) 
 ![.NET](https://img.shields.io/badge/Framework-.NET-green?logo=dotnet)
+[![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?logo=telegram)](https://t.me/ahmaadrafatt)
+
 
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRaafat&show_icons=true&theme=merko)
